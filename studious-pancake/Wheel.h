@@ -9,9 +9,9 @@ class Wheel
     Wheel(unsigned int diameter, unsigned int driveAngle, unsigned int freeAngle);
 
   private:
-    unsigned int Diameter;
-    unsigned int DriveAngle;
-    unsigned int FreeAngle;
+    unsigned int diameter;
+    unsigned int driveAngle;
+    unsigned int freeAngle;
   
 };
 
